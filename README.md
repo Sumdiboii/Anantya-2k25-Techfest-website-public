@@ -17,10 +17,13 @@
 <br>
 <br>
 
-
-![Screenshot 2025-05-22 134019](https://github.com/user-attachments/assets/632b64a5-31d0-4e4f-858b-552d3d9dcd96)
-
-![Screenshot 2025-05-22 134043](https://github.com/user-attachments/assets/d52d0f83-3635-48e7-834b-99bc8cde4ed7)
+<p align="center">
+   
+  <img src="read-me-images/Screenshot 2025-05-22 134019.png" alt="Screenshot 2025-05-22 134019" />
+  
+  <img src="read-me-images/Screenshot 2025-05-22 134043.png" alt="Screenshot 2025-05-22 134043" />
+  
+</p>
 
 
 
